@@ -1,0 +1,31 @@
+2/27
+다음 책검색 api 가이드
+- https://developers.kakao.com/terms/latest/ko/site-policies#%EC%BF%BC%ED%84%B0%EB%B0%8F%EC%A0%9C%ED%95%9C
+
+curl을 fetch로 RN
+- https://blog.naver.com/PostView.nhn?blogId=chic1007&logNo=221482550815&categoryNo=15&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=search
+
+3/3
+textInput cursor 랑 줄 바꾸기
+- https://zeunny.tistory.com/19
+
+3/22
+table npm doc
+- https://www.npmjs.com/package/react-native-table-component
+
+3/24
+react table
+1) 공식 사이트
+- https://react-table.tanstack.com/docs/quick-start
+2) 참고 블로그
+- https://velog.io/@hjkdw95/React-table%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%EC%9E%AC%EC%82%AC%EC%9A%A9-%EA%B0%80%EB%8A%A5%ED%95%9C-table-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0
+
+3/27
+다중선택 단축키
+- https://hianna.tistory.com/360
+1) Ctrl + Shift + L : 선택한 단어 모두 수정
+2) Ctrl + D : 단축키를 누를 때마다 같은 단어가 하나씩 추가로 선택됩니다
+
+3/27
+layoutAnimation 참고 영상
+- https://www.youtube.com/watch?v=6UXfS6FI674
